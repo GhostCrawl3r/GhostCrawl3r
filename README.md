@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi, my name is Nick 👋🏻
 
 👨‍💻 About Me:
@@ -11,3 +9,6 @@
 - 🖌 UX/UI Trained + Qualified (Diploma from UX Design Institute) | Adobe XD | Photoshop
 - 💿 MongoDB | MySQL
 
+# Availability
+
+Currently NOT taking on additional projects at this time. 
