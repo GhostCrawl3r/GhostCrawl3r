@@ -4,8 +4,10 @@
 
 I'm a full-stack developer living in London, currently working on a few smallscale passion projects. I'm currently not available for hire, however, I am open to collaboration. 
 
-![Skills:] HTML5 | CSS | SCSS | ES6 | Javascript | Material UI | React.JS | React Native | Node.JS | Express.JS | Redux | Gatsby.JS | MongoDB | UX/UI
+### Skills: 
+HTML5 | CSS | SCSS | ES6 | Javascript | Material UI | React.JS | React Native | Node.JS | Express.JS | Redux | Gatsby.JS | MongoDB | UX/UI
 
+### About Me
 - 🔭 I’m currently working on building loads of portfolio projects. 
 - 🌱 I’m currently learning Redux. 
 - 👯 I’m looking to collaborate on any react.js project. 
