@@ -19,7 +19,7 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 [<img style="object-fit:cover;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
 [<img style="object-fit:cover;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="70px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
 [<img  style="object-fit:cover;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
-[<img style="object-fit:cover;" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img style="object-fit:cover;" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="60px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
 
 
 
