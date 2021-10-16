@@ -14,8 +14,18 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 ### Skills: 
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GhostCrawl3r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ig4nick//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/The_NickMorgan)  
+(https://www.instagram.com/https://www.instagram.com/ig4nick//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/The_NickMorgan)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostCrawl3r&show_icons=true)  
 
