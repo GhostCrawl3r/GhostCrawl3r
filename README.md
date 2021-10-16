@@ -21,7 +21,7 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 [<img  style="object-fit:cover;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
 [<img style="object-fit:cover;" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg" width="60px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
 [<img style="object-fit:cover;" src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
-[<img style="object-fit:cover;" src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg" width="60px" height="60px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img style="object-fit:cover;" src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg" width="55px" height="55px" alt="html5" />](https://github.com/GhostCrawl3r)
 
 
 
