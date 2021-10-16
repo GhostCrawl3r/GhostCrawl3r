@@ -12,7 +12,7 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 <br/>
 
 ### Skills: 
-HTML5 | CSS | SCSS | ES6 | Javascript | Material UI | Tailwindcss | React.JS | React Native | Node.JS | Express.JS | Redux | Gatsby.JS | MongoDB | UX/UI
+[<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>][poop]
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GhostCrawl3r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ig4nick//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/The_NickMorgan)  
