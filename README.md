@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nick!
 I'm a full-stack developer living in London, currently working on a few smallscale passion projects. I'm currently not available for hire, however, I am open to collaboration. 
 
-<br/><br/>
+<br/>
 
 #### Learn more about me
 - 🔭 I’m currently working on some exciting projects for enterprise customers within the UK. 
@@ -9,7 +9,7 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 - 💬 Ask me about anything!  
 - ⚡ Fun fact: I love animals, I try to adopt as many as I can!
 
-<br/><br/>
+<br/>
 
 ### Skills: 
 HTML5 | CSS | SCSS | ES6 | Javascript | Material UI | Tailwindcss | React.JS | React Native | Node.JS | Express.JS | Redux | Gatsby.JS | MongoDB | UX/UI
