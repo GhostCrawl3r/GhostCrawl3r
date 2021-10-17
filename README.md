@@ -32,7 +32,7 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 
 ### Connect With Me: 
 
-[<img style="object-fit:cover;" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img style="object-fit:cover;" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
 [<img style="object-fit:cover;" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" height="50px" alt="html5" />](https://www.instagram.com/https://www.instagram.com/ig4nick/)
 [<img style="object-fit:cover;" src="https://culturenl.co.uk/wp-content/uploads/2019/06/twitter-logo.png" height="50px" alt="html5" />](https://twitter.com/https://twitter.com/The_NickMorgan)
 
