@@ -34,7 +34,7 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 
 [<img src='https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png' alt='github' height='50'>](https://github.com/GhostCrawl3r)  
 
-[<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='instagram' height='40' />] (https://www.instagram.com/https://www.instagram.com/ig4nick//)  
+[<img src='https://cdn-icons-png.flaticon.com/512/87/87390.png' alt='instagram' height='40'>] (https://www.instagram.com/https://www.instagram.com/ig4nick//)  
 
 [<img src='https://culturenl.co.uk/wp-content/uploads/2019/06/twitter-logo.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/The_NickMorgan)  
 
