@@ -24,9 +24,9 @@ I'm a full-stack developer living in London, currently working on a few smallsca
 [<img style="object-fit:cover;" src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg" width="55px" height="55px" alt="html5" />](https://jestjs.io/)
 [<img style="object-fit:cover;" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" width="50px" height="50px" alt="html5" />](https://www.jetbrains.com/webstorm)
 [<img style="object-fit:cover;" src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.png" width="50px" height="50px" alt="html5" />](https://www.gitkraken.com/)
-[<img style="object-fit:cover;" src="https://cdn.sanity.io/images/599r6htc/production/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
-[<img style="object-fit:cover;" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hjixnzui1nhq3trfcwx8" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
-[<img style="object-fit:cover;" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" width="50px" height="50px" alt="html5" />](https://github.com/GhostCrawl3r)
+[<img style="object-fit:cover;" src="https://cdn.sanity.io/images/599r6htc/production/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&h=670&q=75&fit=max&auto=format" width="50px" height="50px" alt="html5" />](https://www.figma.com/files/recent?fuid=912759271153674597)
+[<img style="object-fit:cover;" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/hjixnzui1nhq3trfcwx8" width="50px" height="50px" alt="html5" />](https://www.adobe.com/uk/products/xd.html)
+[<img style="object-fit:cover;" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_1280.jpg" width="50px" height="50px" alt="html5" />](https://www.adobe.com/uk/products/photoshop.html)
 
 <br/>
 
