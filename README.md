@@ -4,5 +4,3 @@ I'm a software architect living in London, working on a few small-scale passion 
 <br/>
 
 <br/>
-
-![Profile views](https://gpvc.arturio.dev/GhostCrawl3r)  
