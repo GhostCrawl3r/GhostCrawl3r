@@ -1,13 +1,5 @@
 ### Hi There 👋, My Name Is Nick!
-I'm a full-stack developer living in London, currently working on a few smallscale passion projects. I'm currently not available for hire, however, I am open to collaboration. 
-
-<br/>
-
-#### Learn More About Me
-- 🔭 I’m currently working on some exciting projects for enterprise customers within the UK. 
-- 🌱 I’m currently learning AI. 
-- 💬 Ask me about anything!  
-- ⚡ Fun fact: I love animals, I try to adopt as many as I can!
+I'm a software architect living in London, working on a few small-scale passion projects. I'm currently unavailable for hire but am open to collaboration. 
 
 <br/>
 
